@@ -1,0 +1,4 @@
+Hola {nombre} {apellidos},
+{shop_name} ¡Gasto!
+Has gastado un total de en {cantidad_gastada} en {shop_name} 
+{shop_url}
